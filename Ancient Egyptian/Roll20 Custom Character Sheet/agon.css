@@ -847,10 +847,7 @@ input.sheet-zero:checked + span {
 
 button[type="roll"].sheet-domain-button-arts_oration {
   /* background-image: url("https://raw.githubusercontent.com/Roll20/roll20-character-sheets/master/Agon%20Official/Assets/arts_oration.png"); */
-  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' role='img' aria-label='Temple Arts icon'><defs><linearGradient id='gold' x1='0' x2='1' y1='0' y2='1'><stop offset='0' stop-color='%23D6B87A'/><stop offset='1' stop-color='%23C59D5F'/></linearGradient><linearGradient id='stone' x1='0' x2='1' y1='0' y2='1'><stop offset='0' stop-color='%23AAA085'/><stop offset='1' stop-color='%237A715C'/></linearGradient></defs><circle cx='50' cy='50' r='44' fill='none' stroke='%233b2f2f' stroke-width='3' stroke-dasharray='6' opacity='0.6'/><g transform='translate(32,28)'><rect x='0' y='0' width='36' height='42' rx='4' fill='url(%23stone)' stroke='%233b2f2f' stroke-width='1.5'/><rect x='2' y='6' width='32' height='4' rx='2' fill='url(%23gold)'/><rect x='2' y='16' width='32' height='4' rx='2' fill='url(%23gold)'/><rect x='2' y='26' width='32' height='4' rx='2' fill='url(%23gold)'/></g><g transform='translate(50,85)'><path d='M0 0 C6 -12, 14 -18, 18 -20 C12 -10, 6 -4, 0 0 Z' fill='url(%23gold)' stroke='%233b2f2f' stroke-width='1'/><path d='M0 0 C-6 -12, -14 -18, -18 -20 C-12 -10, -6 -4, 0 0 Z' fill='url(%23gold)' stroke='%233b2f2f' stroke-width='1'/><path d='M0 0 C0 -10, 4 -20, 0 -28 C-4 -20, 0 -10, 0 0 Z' fill='url(%23gold)' stroke='%233b2f2f' stroke-width='1'/></g></svg>");
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
+  background-image: url("https://raw.githubusercontent.com/AndrewDawnbringer/Custom-AGON-playsets-by-Endy/refs/heads/main/Ancient%20Egyptian/Images/temple_arts400x400.png");
 }
 
 button[type="roll"].sheet-domain-button-blood_valor {
