@@ -847,7 +847,7 @@ input.sheet-zero:checked + span {
 
 button[type="roll"].sheet-domain-button-arts_oration {
   /* background-image: url("https://raw.githubusercontent.com/Roll20/roll20-character-sheets/master/Agon%20Official/Assets/arts_oration.png"); */
-  background-image: url("https://raw.githubusercontent.com/AndrewDawnbringer/Custom-AGON-playsets-by-Endy/refs/heads/main/Ancient%20Egyptian/Images/temple_arts_400x400_v3.png");
+  background-image: url("https://raw.githubusercontent.com/AndrewDawnbringer/Custom-AGON-playsets-by-Endy/refs/heads/main/Ancient%20Egyptian/Images/temple_arts_100x100_v2.png");
 }
 
 button[type="roll"].sheet-domain-button-blood_valor {
