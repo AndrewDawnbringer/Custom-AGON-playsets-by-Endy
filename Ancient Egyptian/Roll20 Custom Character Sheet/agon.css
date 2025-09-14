@@ -847,12 +847,12 @@ input.sheet-zero:checked + span {
 
 button[type="roll"].sheet-domain-button-arts_oration {
   /* background-image: url("https://raw.githubusercontent.com/Roll20/roll20-character-sheets/master/Agon%20Official/Assets/arts_oration.png"); */
-  background-image: url("https://raw.githubusercontent.com/AndrewDawnbringer/Custom-AGON-playsets-by-Endy/refs/heads/main/Ancient%20Egyptian/Images/scarab.png");
+  background-image: url("https://raw.githubusercontent.com/AndrewDawnbringer/Custom-AGON-playsets-by-Endy/refs/heads/main/Ancient%20Egyptian/Images/isis.png");
 }
 
 button[type="roll"].sheet-domain-button-blood_valor {
   /*background-image: url("https://raw.githubusercontent.com/Roll20/roll20-character-sheets/master/Agon%20Official/Assets/blood_valor.png");*/
-  background-image: url("https://raw.githubusercontent.com/AndrewDawnbringer/Custom-AGON-playsets-by-Endy/refs/heads/main/Ancient%20Egyptian/Images/eye_of_horus.png");
+  background-image: url("https://raw.githubusercontent.com/AndrewDawnbringer/Custom-AGON-playsets-by-Endy/refs/heads/main/Ancient%20Egyptian/Images/bird.png");
 }
 
 button[type="roll"].sheet-domain-button-craft_reason {
@@ -862,7 +862,7 @@ button[type="roll"].sheet-domain-button-craft_reason {
 
 button[type="roll"].sheet-domain-button-resolve_spirit {
   /* background-image: url("https://raw.githubusercontent.com/Roll20/roll20-character-sheets/master/Agon%20Official/Assets/resolve_spirit.png"); */
-  background-image: url("https://raw.githubusercontent.com/AndrewDawnbringer/Custom-AGON-playsets-by-Endy/refs/heads/main/Ancient%20Egyptian/Images/scale.png");
+  background-image: url("https://raw.githubusercontent.com/AndrewDawnbringer/Custom-AGON-playsets-by-Endy/refs/heads/main/Ancient%20Egyptian/Images/scale_2.png");
 }
 
 .charsheet .sheet-domains {
